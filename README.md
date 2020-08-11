@@ -1,11 +1,11 @@
-### Hi, I'm Mayank Nagora 👋
+### Hi, I'm Mayank Nagora. 👋
         I love to play with the code because it's the best way to learn coding.
         Whenever I write the code and then run it, the next thing comes is how I should make that code shorter.
         So that it looks simple and clean.
 
 - 🔭 I’m currently working on Cancer Detection Website.
 - 🌱 I’m currently learning Django, Flask.
-- 👯 I’m looking to collaborate on GitHub.
+- 👯 I’m looking to collaborate on YouTube.
 - 🤔 I’m looking for help on Machine Learning.
 - 💬 Ask me about Python
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
