@@ -1,4 +1,4 @@
-### 𝗛𝗶, 𝗜'𝗺 𝗠𝗮𝘆𝗮𝗻𝗸 𝗡𝗮𝗴𝗼𝗿𝗮. 👋
+### 𝙷𝚒, 𝙸'𝚖 𝙼𝚊𝚢𝚊𝚗𝚔 𝙽𝚊𝚐𝚘𝚛𝚊. 👋
         I love to play with the code because it's the best way to learn coding.
         Whenever I write the code and then run it, the next thing comes is how I should make that code shorter.
         So that it looks simple and clean.
