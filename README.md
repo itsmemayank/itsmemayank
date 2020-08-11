@@ -27,4 +27,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsmemayank&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsmemayank&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=fff">
