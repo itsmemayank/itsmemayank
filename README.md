@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I am Mayank 👋
+        I love to play with the code because its the best way to learn coding.
+        whenever I write the code and then run it, the next thing comes I do is how should I make that code shorter.
+        So that it looks simpler and cleaner.
 
-<!--
-**itsmemayank/itsmemayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Cancer Detection Website.
+- 🌱 I’m currently learning Django, Flask.
+- 👯 I’m looking to collaborate on GitHub.
+- 🤔 I’m looking for help on Machine Learning.
+- 💬 Ask me about Python
+- 📫 How to reach me: Gmail:[itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Whenever I start coding, I don't know why Time runs Faster.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img url="https://github-readme-stats.vercel.app/api?username=itsmemayank&&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=fff">
