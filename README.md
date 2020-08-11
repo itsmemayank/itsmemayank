@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Django, Flask.
 - 👯 I’m looking to collaborate on YouTube.
 - 🤔 I’m looking for help on Machine Learning.
-- 💬 Ask me about Python
+- 💬 Ask me about Python.
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Whenever I start coding, I don't know why time runs faster.
