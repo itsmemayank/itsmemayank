@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Cancer Detection Website.
 - 🌱 I’m currently learning Django, Flask.
-- 👯 I’m looking to collaborate on YouTube.
+- 👯 I’m looking to collaborate on YouTube, GitHub.
 - 🤔 I’m looking for help on Machine Learning.
 - 💬 Ask me about Python.
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
