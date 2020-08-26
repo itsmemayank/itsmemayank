@@ -10,7 +10,7 @@
 - 💬 Ask me about Python.
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: USE TIMER⏰ WHILE CODING.
+- ⚡ Fun fact: Use <small>Timer</small>⏰ While <coding>Coding</coding>.
 
 ### Languages and Tools:
 
