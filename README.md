@@ -1,7 +1,7 @@
 ### Hi, I'm Mayank Nagora. 👋
         I love to play with the code because it's the best way to learn coding.
         Whenever I write the code and then run it, the next thing comes is how I should make that code shorter.
-        So that it looks simple and clean.
+        So that it looks simple and cleaner.
 
 - 🔭 I’m currently working on Cancer Detection Website.
 - 🌱 I’m currently learning Django, Flask.
@@ -10,7 +10,7 @@
 - 💬 Ask me about Python.
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Use <small>Timer</small>⏰ While <coding>Coding</coding>.
+- ⚡ Fun fact: Use Timer⏰ While Coding.
 
 ### Languages and Tools:
 
