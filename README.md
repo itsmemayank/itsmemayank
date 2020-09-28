@@ -1,7 +1,7 @@
 ### Hi, I'm Mayank Nagora. 👋
         I love to play with the code because it's the best way to learn coding.
-        Whenever I write the code and then run it, the next thing comes is how I should make that code shorter.
-        So that it looks simple and cleaner.
+        Whenever I write the code the next thing comesto mind is how I should make the code shorter.
+        So that it looks simpler and cleaner.
 
 - 🔭 I’m currently working on Cancer Detection Website.
 - 🌱 I’m currently learning Django, Flask.
