@@ -10,7 +10,7 @@
 - 💬 Ask me about Python.
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Coding is Simple😜.
+- ⚡ Fun fact: There is no place like 127.0.0.1.
 
 ### Languages and Tools:
 
