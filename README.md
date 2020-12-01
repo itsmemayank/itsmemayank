@@ -3,14 +3,14 @@
         Whenever I write the code the next thing comes to mind is how I should make the code shorter.
         So that it looks simpler and cleaner.
 
-- 🔭 I’m currently working on Cancer Detection Website.
-- 🌱 I’m currently learning Django, Flask.
+- 🔭 I’m currently working on Full Stack Web Development.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on YouTube, GitHub.
 - 🤔 I’m looking for help on Machine Learning.
-- 💬 Ask me about Python.
+- 💬 Ask me about Python, Web Development.
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: There is no place like 127.0.0.1.
+- ⚡ Fun fact: There's no place like 127.0.0.1.
 
 ### Languages and Tools:
 
