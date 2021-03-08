@@ -1,7 +1,5 @@
 ### Hi, I'm Mayank Nagora. 👋
-        I love to play with the code because it's the best way to learn coding.
-        Whenever I write the code the next thing comes to mind is how I should make the code shorter.
-        So that it looks simpler and cleaner.
+       
 
 - 🔭 I’m currently working on Full Stack Web Development.
 - 🌱 I’m currently learning React.
