@@ -1,7 +1,7 @@
 ### Hi, I'm Mayank Nagora. 👋
        
        
-<img align="left" alt="Visual Studio Code" width="26px" src="https://drive.google.com/file/d/18-5g2M4FNF4pP9v7gIh5rTeoGc1SsyMb/view?usp=sharing" />
+<img alt="Python Certificate" width="26px" src="https://drive.google.com/file/d/1QzRoQ06t9kz-h1i8B920T_xmrJeE5B7q/view?usp=sharing" />
 
 - 🔭 I’m currently working on Full Stack Web Development.
 - 🌱 I’m currently learning React.
