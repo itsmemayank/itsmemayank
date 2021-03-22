@@ -1,7 +1,7 @@
 ### Hi, I'm Mayank Nagora. 👋
        
        
-<img alt="Python Certificate" width="100px" src="https://www.dropbox.com/h?preview=python.jpg" />
+<img alt="Python Certificate" width="26px" src="https://www.dropbox.com/home?preview=python.png" />
 
 - 🔭 I’m currently working on Full Stack Web Development.
 - 🌱 I’m currently learning React.
