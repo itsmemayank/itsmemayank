@@ -1,7 +1,5 @@
 ### Hi, I'm Mayank Nagora. 👋
        
-       
-![python certificate](https://www.dropbox.com/home?preview=python.png)
 
 - 🔭 I’m currently working on Full Stack Web Development.
 - 🌱 I’m currently learning React.
