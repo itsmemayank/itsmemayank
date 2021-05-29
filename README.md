@@ -8,7 +8,7 @@
 - 💬 Ask me about Python, Web Development.
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Just <strong>Be Reactive</strong> to coding problems.
+- ⚡ Just <strong>Be Reactive</strong> to <code><strong>Coding</strong></code> Problems.
 
 ### Languages and Tools:
 
