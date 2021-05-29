@@ -8,7 +8,7 @@
 - 💬 Ask me about Python, Web Development.
 - 📫 How to reach me: Gmail: [itsmemayank](mailto:mayanknagora1999.mn@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: There's no place like 127.0.0.1.
+- ⚡ Fun fact: Just be Reactive to any problems.
 
 ### Languages and Tools:
 
